@@ -1,4 +1,4 @@
-# snake-ate-snack
+# S8S: Snake Ate Snack
 
 > powered by ACLLib
 
